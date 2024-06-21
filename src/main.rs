@@ -1,4 +1,4 @@
-use hello_crate::test_gamepad_to_integer;
+use be_eloistree_hellocrate::test_gamepad_to_integer;
 
 
 
