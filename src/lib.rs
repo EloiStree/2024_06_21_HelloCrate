@@ -74,11 +74,11 @@ pub fn gamepad_to_integer(front_id:i8,lx:f32, ly:f32, rx:f32, ry:f32 )->i32
 /// Converts a float between -1.0 and 1.0 to a integer between 0 and 99 digits
 /// Quick Example
 /// ```
-/// let percent11_negative:i32 = hello_crate::parse_percent11_to_integer99(-1.0);
+/// let percent11_negative:i32 = be_eloistree_hellocrate::parse_percent11_to_integer99(-1.0);
 /// assert_eq!(percent11_negative, 1);
-/// let percent11_positive :i32= hello_crate::parse_percent11_to_integer99(1.0);
+/// let percent11_positive :i32= be_eloistree_hellocrate::parse_percent11_to_integer99(1.0);
 /// assert_eq!(percent11_positive, 99);
-/// let percent11_zero :i32= hello_crate::parse_percent11_to_integer99(0.0);
+/// let percent11_zero :i32= be_eloistree_hellocrate::parse_percent11_to_integer99(0.0);
 /// assert_eq!(percent11_zero, 0);
 /// ```
 /// Source of this test: [https://youtu.be/4TI153PIEDQ?t=346](https://youtu.be/4TI153PIEDQ?t=346)
