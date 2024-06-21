@@ -1,11 +1,13 @@
 
 
 //! # Eloi Crate
-//! Hello guys, this is a simple crate that I created to test the creation of a crate in Rust.
+//! Hello guys,
+//!  this is a simple crate that I created to test the creation of a crate in Rust.
 //! This is my first one.
-//! Find me [https://github.com/EloiStree/HelloRustBending](https://github.com/EloiStree/HelloRustBending)
-//! ![Logo Rust Learning Drone XR](https://private-user-images.githubusercontent.com/20149493/339169352-076b4da0-cae1-4635-b1fc-a2b33eeefb6a.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg5OTg2NjgsIm5iZiI6MTcxODk5ODM2OCwicGF0aCI6Ii8yMDE0OTQ5My8zMzkxNjkzNTItMDc2YjRkYTAtY2FlMS00NjM1LWIxZmMtYTJiMzNlZWVmYjZhLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjIxVDE5MzI0OFomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTE3Mzc1YzY3NzAyNzI3ZTQ1MzQ5NDlkOTRkMGMyZDRhMzAwZGMyMDM4YTE5YjhkYjUyZTFkMDVlZTVjZTg5ZGUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.loPw2Y0baieOOUqzjMshR4SpxfG1JixYuUOw2TuqE94)
-
+//! [![Hello Rust Bend Drone XR](https://raw.githubusercontent.com/EloiStree/HelloRustBending/main/Icon/RustDroneXR.png)](https://github.com/EloiStree/HelloRustBending)   
+//! [https://github.com/EloiStree/HelloRustBending](https://github.com/EloiStree/HelloRustBending)    
+//!  
+//! May the code be with you :)
 
 /// Test  in console debug the methode of gamepad to integer
 pub fn test_gamepad_to_integer(){

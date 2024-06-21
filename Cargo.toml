@@ -1,6 +1,6 @@
 [package]
 name = "be_eloistree_hellocrate"
-version = "0.1.21"
+version = "0.1.22"
 edition = "2021"
 authors =["Eloi Stree"]
 description="My first Hello Crate"
