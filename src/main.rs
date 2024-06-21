@@ -17,3 +17,5 @@ fn main() {
 
 // cargo doc --open
 // cargo test
+// cargo publish 
+// Verified your main and push code online.
